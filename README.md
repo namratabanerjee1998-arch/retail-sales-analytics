@@ -38,11 +38,24 @@ retail-sales-analytics/
 └── reports/
 
 ## 🚀 How to Run
-1. Clone repo: git clone https://github.com/YOUR_NAME/retail-sales-analytics
+1. Clone repo: git clone https://github.com/namratabanerjee1998-arch/retail-sales-analytics
 2. Download dataset from Kaggle (link above) → place in data/raw/
 3. Install dependencies: pip install -r requirements.txt
 4. Run notebooks in order: 01 → 02 → 03
 5. Open powerbi/retail_dashboard.pbix in Power BI Desktop
 
 ## 📸 Dashboard Preview
-![Dashboard](reports/dashboard_screenshot.png)
+## 📸 Dashboard Preview
+
+### 📊 Page 1: Sales Overview
+![/Executive Summery](reports/Executive Summery.JPG)
+
+### 📊 Page 2: Customer Analysis
+![Sales Trend.JPG](reports/Sales Trend.JPG)
+
+### 📊 Page 3: Product Performance
+![Product & Customer Analysis](reports/Product & Customer Analysis.JPG)
+
+### 📊 Page 4: Regional Insights
+![ML Sales Forecast](reports/ML Sales Forecast.PNG)
+
