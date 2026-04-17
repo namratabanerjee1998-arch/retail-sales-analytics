@@ -46,13 +46,13 @@ retail-sales-analytics/
 
 ## 📸 Dashboard Preview
 ### 📊 Page 1: Executive Summery
-![Executive Summery](reports/executive_summery.png)
+![Executive Summery](reports/executive_summary.png)
 
 ### 📊 Page 2: Sales Trend
 ![Sales Trend](reports/sales_trend.png) 
 
 ### 📊 Page 3: Product and Customer Analysis 
-![Product and Customer Analysis](reports/product_and_customer Analysis.png)
+![Product and Customer Analysis](reports/product_and_customer_analysis.png)
  
 ### 📊 Page 4: ML Sales Forecast 
 ![ML Sales Forecast](reports/ml_sales_forecast.png)
