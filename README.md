@@ -45,17 +45,15 @@ retail-sales-analytics/
 5. Open powerbi/retail_dashboard.pbix in Power BI Desktop
 
 ## 📸 Dashboard Preview
-## 📸 Dashboard Preview
+### 📊 Page 1: Executive Summery
+![Executive Summery](reports/executive_summery.png)
 
-### 📊 Page 1: Sales Overview
-![/Executive Summery](reports/Executive Summery.JPG)
+### 📊 Page 2: Sales Trend
+![Sales Trend](reports/sales_trend.png) 
 
-### 📊 Page 2: Customer Analysis
-![Sales Trend.JPG](reports/Sales Trend.JPG)
-
-### 📊 Page 3: Product Performance
-![Product & Customer Analysis](reports/Product & Customer Analysis.JPG)
-
-### 📊 Page 4: Regional Insights
-![ML Sales Forecast](reports/ML Sales Forecast.PNG)
+### 📊 Page 3: Product and Customer Analysis 
+![Product and Customer Analysis](reports/product_and_customer Analysis.png)
+ 
+### 📊 Page 4: ML Sales Forecast 
+![ML Sales Forecast](reports/ml_sales_forecast.png)
 
